@@ -2,14 +2,13 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#000"
+    android:background="@drawable/item_container_selector_background"
     android:padding="20dp">
     <LinearLayout
         android:id="@+id/item_list_container"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="vertical"
-        android:background="@drawable/item_container_selector_background">
+        android:orientation="vertical">
         <TextView
             android:id="@+id/item_id"
             style="@style/item"/>
