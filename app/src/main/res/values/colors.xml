@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!--BUTTONS-->
+    <color name="buttonBgUp">#292929</color>
+    <color name="buttonBgDown">#000</color>
+    <color name="buttonTxtUp">#fff</color>
+    <color name="buttonTxtDown">#0dff00</color>
+    <!--ITEMS-->
+    <color name="itemBgUp">#000</color>
+    <color name="itemTxtUp">#fff</color>
+    <color name="itemBgDown">#232323</color>
+    <color name="itemTxtDown">#0dff00</color>
+    <!--<color name="colorAccent">#FF4081</color>-->
+    <!--<color name="colorAccent">#FF4081</color>-->
+</resources>
