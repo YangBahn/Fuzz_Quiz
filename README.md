@@ -1,4 +1,4 @@
-# Fuzz_Quiz
+# Sample App 1 - Network programming and JSON data retrieval 
 
 This is a test app I developed for FuzzProductions. The goal is the create an app that
 retrieves JSON data from URL links and display them on Android. 
